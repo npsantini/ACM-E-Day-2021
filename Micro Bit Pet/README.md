@@ -8,4 +8,4 @@ In this project we will be using a micro:bit computer to create a pet that the u
 ![](https://github.com/npsantini/ACM-E-Day-2021/blob/main/Micro%20Bit%20Pet/pet_code_block_4.png)
 
 ### Tinkercad Link
-![](https://www.tinkercad.com/things/cFK7ycX3UYo-e-day-micro-bit-pet/editel)
+https://www.tinkercad.com/things/cFK7ycX3UYo-e-day-micro-bit-pet/editel
