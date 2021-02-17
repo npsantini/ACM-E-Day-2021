@@ -1,13 +1,13 @@
 /*
-  LiquidCrystal Library - Hello World
+  LiquidCrystal Library - Hello World (with scrolling)
 
  Demonstrates the use a 16x2 LCD display.  The LiquidCrystal
  library works with all LCD displays that are compatible with the
  Hitachi HD44780 driver. There are many of them out there, and you
  can usually tell them by the 16-pin interface.
 
- This sketch prints "Hello World!" to the LCD
- and shows the time.
+ This sketch prints a scrolling "Hello World!" 
+ to the LCD.
 
   The circuit:
  * LCD RS pin to digital pin 12
@@ -31,10 +31,13 @@
  by Tom Igoe
  modified 22 Nov 2010
  by Tom Igoe
+ modified 16 Apr 2021
+ by Tyler Burkett
 
  This example code is in the public domain.
 
- http://www.arduino.cc/en/Tutorial/LiquidCrystal
+ To learn more about the LuquidCrystal library, go to:
+ https://www.arduino.cc/en/Reference/LiquidCrystal
  */
 
 // include the library code:
@@ -44,6 +47,7 @@
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 // create the message we want to print out
 String message = "hello, world!";
+
 void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
@@ -51,7 +55,7 @@ void setup() {
 
 void loop() {
   
-  // set the cursor to (0,0)
+  // set the cursor to (0,0) aka the top left
   lcd.setCursor(0, 0);
 
   // print message one character at a time
@@ -60,7 +64,7 @@ void loop() {
   	delay(500);
   }
 
-  // set the cursor to (16,1):
+  // set the cursor to (16,1) aka the bottom right
   lcd.setCursor(16, 1);
 
   // set the display to automatically scroll:
