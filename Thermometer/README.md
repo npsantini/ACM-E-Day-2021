@@ -6,3 +6,7 @@ In this project we will be using an Arduino Uno to create a very basic thermomet
 
 ### The Code Blocks
 ![](https://github.com/npsantini/ACM-E-Day-2021/blob/main/Thermometer/thermometer-code-blocks.jpg?raw=true)
+
+### The Code
+Below is a link to the code. It can also be found in the files above.<br>
+[https://github.com/npsantini/ACM-E-Day-2021/blob/main/Thermometer/thermometer-code.cpp](https://github.com/npsantini/ACM-E-Day-2021/blob/main/Thermometer/thermometer-code.cpp)
