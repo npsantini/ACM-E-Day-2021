@@ -1,6 +1,9 @@
 # Arduino Thermometer Project - Level: Beginner
 In this project we will be using an Arduino Uno to create a very basic thermometer using a TMP36 temperature sensor for our input and a servo for output. This is a beginner level project.
 
+## Copy/View the design on TINKERCAD
+https://www.tinkercad.com/things/hfCwKrpcRws
+
 ### The Circuit
 ![](https://github.com/npsantini/ACM-E-Day-2021/blob/main/Thermometer/thermometer-circuit.jpg?raw=true)
 
