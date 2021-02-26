@@ -10,5 +10,8 @@ Like we said before, there is no equipment necessary to particpate in the worksh
 * Internet connection
 * A [Tinkercad.com](https://www.tinkercad.com/) account
 
-### How to participate in the workshop
+## How to participate in the workshop
 If you are able to join us on E-Day during our live presentation, great! If not there is a video that will go over each of the projects we came up with for E-Day. There are also folders that have more information on each of the different projects we created. Those folders can be viewed above. In those folders we include links to the Tinkercad projects, code, and screenshots to help you out when creating these projects.
+
+## Click below to go watch the workshop video!
+[![Watch the workshop video](https://img.youtube.com/vi/r_cq7CrljoM/0.jpg)](https://www.youtube.com/watch?v=r_cq7CrljoM)
