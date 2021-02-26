@@ -1,4 +1,4 @@
-# Micro Bit Pet Project - Level: Beginner
+# micro:bit Pet Project - Level: Beginner
 In this project we will be using a micro:bit computer to create a pet that the user can interact with. This is a beginner level project.
 
 ### The Code Blocks
