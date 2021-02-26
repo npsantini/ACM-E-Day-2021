@@ -1,3 +1,5 @@
+![](https://github.com/npsantini/ACM-E-Day-2021/blob/main/projects.jpg)
+
 # TinkerCAD Circuits Workshop - E-Day 2021
 Welcome to E-Day everybody! This is the E-Day workshop that is hosted by the Association for Computing Machinery student chapter at the University of Kentucky. In this workshop we will be creating circuits that will involve code/code blocks. It is recommended for the 3rd grade level or above. In the workshop you will learn how to create awesome projects that use Arduinos, sensors, and all sorts of exciting things.
 
